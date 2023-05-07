@@ -1,0 +1,29 @@
+body {
+	background-image: url("IMG_20230507_092643_201.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.photo {
+	width: 685px;
+	height: 225px;
+	display: block;
+}
+.ins {
+		margin-left: 132px;
+}
+.wth {
+		margin-left: 132px;
+}
+.em {
+		margin-left: 132px;
+}
+.tl {
+		margin-left: 132px;
+}
+p {
+	text-align: center;
+	color: black;
+	font-size: 52px;
+	font-weight: bold;
+	margin-top: 745px;
+}
